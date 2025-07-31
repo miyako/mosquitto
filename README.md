@@ -23,3 +23,7 @@ see [Documentation/Classes/](https://github.com/miyako/mosquitto/tree/main/mosqu
 ### Examples
 
 see [Sources/Methods/](https://github.com/miyako/mosquitto/tree/main/mosquitto/Project/Sources/Methods)
+
+<img width="640" height="auto" alt="" src="https://github.com/user-attachments/assets/c4b66b7f-92e9-4c65-bc2d-10276c49d254" />
+
+<img width="640" height="auto" alt="" src="https://github.com/user-attachments/assets/d1a6cab3-b459-4a0d-bad1-9dd2aa87520f" />
