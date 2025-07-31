@@ -15,3 +15,7 @@
 
 * a static build of the CLI tools for macOS are included in /RESOURCES/bin/macOS
 * the standard distribution of the CLI tools for Windows are included in /RESOURCES/bin/Windows
+
+### Documentation
+
+see [Documentation/Classes/](https://github.com/miyako/mosquitto/tree/main/mosquitto/Documentation/Classes)
