@@ -19,3 +19,7 @@
 ### Documentation
 
 see [Documentation/Classes/](https://github.com/miyako/mosquitto/tree/main/mosquitto/Documentation/Classes)
+
+### Examples
+
+see [Sources/Methods/](https://github.com/miyako/mosquitto/tree/main/mosquitto/Project/Sources/Methods)
