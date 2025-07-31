@@ -10,3 +10,8 @@
 
 * the source code of this component is licensed under the [MIT license](https://github.com/miyako/4d-plugin-soci/blob/master/LICENSE).
 * **mosquitto** is licensed under [EPL/EDL](https://github.com/eclipse-mosquitto/mosquitto/blob/master/LICENSE.txt).  
+
+### Binaries
+
+* a static build of the CLI tools for macOS are included in /RESOURCES/bin/macOS
+* the standard distribution of the CLI tools for Windows are included in /RESOURCES/bin/Windows
