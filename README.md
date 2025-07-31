@@ -15,3 +15,7 @@
 
 * a static build of the CLI tools for macOS are included in /RESOURCES/bin/macOS
 * the standard distribution of the CLI tools for Windows are included in /RESOURCES/bin/Windows
+
+### Remarks
+
+the `stdIn` `stdOut` encoding may not be good on Windows.
