@@ -1,0 +1,48 @@
+{
+	"CLI": {
+		"classes": [
+			"_CLI"
+		]
+	},
+	"Controller": {
+		"classes": [
+			"_CLI_Controller",
+			"_mosquitto_Controller",
+			"_mosquittoUI_Controller"
+		]
+	},
+	"Form": {
+		"classes": [
+			"_Form",
+			"mosquitto_Form",
+			"mosquitto_pub_Form",
+			"mosquitto_sub_Form"
+		]
+	},
+	"mosquitto": {
+		"classes": [
+			"mosquitto",
+			"mosquitto_pub",
+			"mosquitto_sub"
+		]
+	},
+	"pub": {
+		"methods": [
+			"TEST_Form_pub",
+			"TEST_Worker_pub"
+		],
+		"forms": [
+			"mosquitto_pub"
+		]
+	},
+	"sub": {
+		"methods": [
+			"TEST_Form_sub",
+			"TEST_Worker_sub"
+		],
+		"forms": [
+			"mosquitto_sub"
+		]
+	},
+	"trash": {}
+}
